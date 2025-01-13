@@ -7,7 +7,6 @@ Affiliations
 1. Folkhälsan Research Centre, Helsinki, Finland
 2. Faculty of Medicine, University of Helsinki, Helsinki, Finland
 3. Department of Psychology and Logopedics, Faculty of Medicine, University of Helsinki, Helsinki, Finland
-
 <br/>
 *Indicates equal contribution.
 
