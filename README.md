@@ -1,5 +1,5 @@
 # Original Article
-## Emilia-Ankkuri-2025-Association-between-mental-health-and-weight-development-during-adolescence
+## Association between mental health and weight development during adolescence: A 4-year follow-up study among youth
 
 Emilia Ankkuri 1, Sohvi Lommi 1,2, Hanna Granroth-Wilding 2, Jari Lahti 1,3*, Heli Viljakainen 1,2*
 
