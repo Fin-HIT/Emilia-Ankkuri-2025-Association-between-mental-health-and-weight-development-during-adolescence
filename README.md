@@ -6,7 +6,7 @@ Emilia Ankkuri 1, Sohvi Lommi 1,2, Hanna Granroth-Wilding 2, Jari Lahti 1,3*, He
 Affiliations
 1. Folkhälsan Research Centre, Helsinki, Finland
 2. Faculty of Medicine, University of Helsinki, Helsinki, Finland
-3. Department of Psychology and Logopedics, Faculty of Medicine, University of Helsinki, Helsinki, Finland
+3. Department of Psychology and Logopedics, Faculty of Medicine, University of Helsinki, Helsinki, Finland <br/>
 *Indicates equal contribution.
 
 ## *Corresponding author*: <br/>
